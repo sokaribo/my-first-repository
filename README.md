@@ -11,3 +11,5 @@ git branch -M main
 git commit --amend
 
 git checkout -b <Name of new branch>
+
+Would place another git command here
