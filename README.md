@@ -12,4 +12,10 @@ git commit --amend
 
 git checkout -b <Name of new branch>
 
-Would place another git command here
+git fetch
+
+git diff main origin/main
+
+git merge --ff-only
+
+git pull --ff-only
