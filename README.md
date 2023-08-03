@@ -9,3 +9,5 @@ git add --move master main
 git branch -M main
 
 git commit --amend
+
+git checkout -b <Name of new branch>
